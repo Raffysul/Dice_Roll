@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">New Project</string>
+    <string name="roll">Roll</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="_1">1</string>
+    <string name="roll_it">Roll It</string>
+
+</resources>
